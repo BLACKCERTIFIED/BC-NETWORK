@@ -35,3 +35,4 @@ func benchmark(f func()) time.Duration {
 
 	return time.Since(t0)
 }
+
